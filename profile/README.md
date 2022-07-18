@@ -1,7 +1,7 @@
 ## Hi there 👋 
 Wondering what's being a dev like at GSoft? [Learn more about us and the products we craft.](https://www.gsoft.com/en/careers/being-a-dev-like-here/?utm_medium=github&utm_source=social&utm_campaign=intro-github) 
 
-Psst, have a look at our [technical blog](https://medium.com/gsoft-tech) 🤓
+Psst, we also have a [technical blog](https://medium.com/gsoft-tech) 🤓
 
 <!--
 
