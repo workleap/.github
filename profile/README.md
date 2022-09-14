@@ -1,7 +1,7 @@
 ## Hi there 👋 
 Wondering what's being a dev like at GSoft? [Learn more about us and the products we craft.](https://www.gsoft.com/en/careers/being-a-dev-like-here/?utm_medium=github&utm_source=social&utm_campaign=intro-github) 
 
-At GSoft we value principles and you can see what they are by youself [here](https://medium.com/gsoft-tech/engineering-principles-at-gsoft-8f480f7c40cf).
+At GSoft we value [engineering principles](https://medium.com/gsoft-tech/engineering-principles-at-gsoft-8f480f7c40cf) and you can see what they are by youself.
 
 Or, you can take a look at the whole [technical blog](https://medium.com/gsoft-tech) 🤓
 
