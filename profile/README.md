@@ -21,4 +21,4 @@ In 2023, Workleap introduced its Open Source Sponsorship Fund, a 50k fund dedica
 - [NAPI-RS](https://napi.rs/)
 - [Mock Service Worker](https://mswjs.io/)
 - [tsup](https://tsup.egoist.dev/)
-- [antfu (contributor)](https://twitter.com/antfu7)
+- [antfu (individual contributor)](https://twitter.com/antfu7)
