@@ -5,13 +5,20 @@ At Workleap, we value [engineering principles at Workleap](https://medium.com/wo
 
 Or, you can take a look at the whole [technical blog](https://medium.com/workleap) 🤓
 
-<!--
+### Open Source Sponsorship Fund
 
-**Here are some ideas to get you started:**
+In 2023, Workleap introduced its Open Source Sponsorship Fund, a 50k fund dedicated to supporting open source projects that are utilized by our products. In 2024, Workleap is proud to sponsor:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [MediatR](https://github.com/jbogard/MediatR)
+- [Automapper](https://github.com/AutoMapper/AutoMapper)
+- [Fluent Assertions](https://fluentassertions.com/)
+- [Autofac](https://autofac.org/)
+- [ESLint](https://eslint.org/)
+- [typescript-eslint](https://typescript-eslint.io/)
+- [Stylelint](https://stylelint.io/)
+- [Browserslist](https://browsersl.ist/)
+- [core-js](https://github.com/zloirock/core-js)
+- [NAPI-RS](https://napi.rs/)
+- [Mock Service Worker](https://mswjs.io/)
+- [tsup](https://tsup.egoist.dev/)
+- [antfu (contributor)](https://twitter.com/antfu7)
