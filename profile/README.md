@@ -6,7 +6,7 @@ At Workleap, we value our [engineering principles](https://medium.com/workleap/e
 
 ### Open Source Sponsorship Fund
 
-In 2023, Workleap introduced its Open Source Sponsorship Fund, a 50k fund dedicated to supporting open source projects that are utilized by our products. In 2024, Workleap is proud to sponsor:
+In 2023, Workleap introduced its [Open Source Sponsorship Fund](https://medium.com/workleap/introducing-the-workleap-open-source-sponsorship-fund-0936902ec730), a 50k fund dedicated to supporting open source projects that are utilized by our products. In 2024, Workleap is proud to sponsor:
 
 - [MediatR](https://github.com/jbogard/MediatR)
 - [Automapper](https://github.com/AutoMapper/AutoMapper)
